@@ -1,0 +1,2 @@
+1. File php you must place in htdocs
+2. File sql you must import to your sql database, named rest_enterprise

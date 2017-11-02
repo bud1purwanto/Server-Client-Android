@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

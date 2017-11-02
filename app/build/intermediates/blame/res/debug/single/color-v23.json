@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/budi/Dell_Data/Documents/Aplikasi Enterprise/Project/RestServer-Client/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/ebc140bfdbab27682f7d2c8aabc9721e40f869fb/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]
